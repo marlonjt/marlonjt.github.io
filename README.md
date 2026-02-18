@@ -6,7 +6,7 @@
 Bienvenido al repositorio de mi portafolio personal. Este sitio web estático ha sido diseñado con un enfoque **minimalista y limpio**, priorizando la experiencia de usuario (UX) y la velocidad de carga.
 
 ## 🚀 Demo en vivo
-*(Aquí podrás poner el link cuando lo subas a Vercel o GitHub Pages, ej:  link)*
+*(Aquí podrás poner el link cuando lo subas a Vercel o GitHub Pages, ej:  [link](https://marlonjt.github.io/))*
 
 ---
 
