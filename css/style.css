@@ -387,7 +387,7 @@ body.light-mode .icon-btn:hover {
 }
 
 .tags {
-    display: flex;
+    display: block;
     gap: 10px;
 }
 
